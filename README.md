@@ -36,3 +36,4 @@ infinitely to see more data. ● As a user, you can filter the ships by type.
 - Error handling
 - Proper tests
 - Slick design
+- Heroku CI
