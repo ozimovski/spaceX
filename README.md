@@ -37,3 +37,7 @@ infinitely to see more data. ● As a user, you can filter the ships by type.
 - Proper tests
 - Slick design
 - Heroku CI
+
+## APP URL
+
+https://ozim-spacex.herokuapp.com/
